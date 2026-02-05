@@ -1,0 +1,17 @@
+# Visual Studio временные файлы
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.db
+*.log
+
+# Скомпилированные файлы
+*.dll
+*.exe
+*.pdb
+
+# Настройки пользователя
+*.userprefs
